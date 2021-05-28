@@ -1,6 +1,7 @@
 # Compoundinterestcalculator
 
 Run the file compoundinterest.py
+
 Calculate Compound Interest of any Amount within seconds!!
 
 Sample Output:
